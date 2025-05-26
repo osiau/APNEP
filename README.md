@@ -11,3 +11,6 @@ This folder contains data about population migration, disadvantage, and rural ca
 
 ## wetland_suitability
 This folder contains suitability data for both conservation and restoration goals. The files that end in _suitability mean that their values were changed to reflect suitability. For example, in the open water raster all values where water exists are 0 while any other area within the study area is 1 to demonstrate suitability. 
+
+
+The metadata.xlsx contains the metadata for all folders.
