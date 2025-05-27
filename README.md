@@ -9,8 +9,10 @@ This folder contains the APNEP boundary used to clip the rest of the data. It al
 ## community_resilience
 This folder contains data about population migration, disadvantage, and rural capacity.
 
-## wetland_suitability
-This folder contains suitability data for both conservation and restoration goals. The files that end in _suitability mean that their values were changed to reflect suitability. For example, in the open water raster all values where water exists are 0 while any other area within the study area is 1 to demonstrate suitability. 
+## wetland_enhancement
+This folder contains data for all ecological variables.  
 
+## composites
+This folder contains composite raster for both wetland enhancement goals (conservation & restoration) as well as priority raster consisting of combined community resilience and wetland enhancement rasters.
 
 The metadata.xlsx contains the metadata for all folders.
